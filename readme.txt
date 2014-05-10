@@ -2,7 +2,7 @@
 Contributors: tivnet
 Tags: example, demo, guide, help, helper, instruction, learn, learning, teach, training, tutorial, TIVWP, TIVWP-DEMIA
 Requires at least: 3.6
-Tested up to: 3.9
+Tested up to: 4.0-alpha
 Stable tag: trunk
 License: GPLv2
 
@@ -23,6 +23,10 @@ You can install this plugin directly from your WordPress dashboard:
 4. Activate the plugin.
 
 Alternatively, see the guide to [Manually Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+
+== Screenshots ==
+
+1. Admin notice when plugin won't run.
 
 == Changelog ==
 
