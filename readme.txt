@@ -2,7 +2,7 @@
 Contributors: tivnet
 Tags: example, demo, guide, help, helper, instruction, learn, learning, teach, training, tutorial, TIVWP, TIVWP-DEMIA
 Requires at least: 3.6
-Tested up to: 4.0-alpha
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 
